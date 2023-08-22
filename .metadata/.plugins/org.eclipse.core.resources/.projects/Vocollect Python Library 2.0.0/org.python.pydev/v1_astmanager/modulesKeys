@@ -1,0 +1,17 @@
+MODULES_MANAGER_V2
+sndhdr|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\sndhdr.py
+vocollect_python.__init__|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\__init__.py
+vocollect_python.cgi|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\cgi.py
+vocollect_python.email.__init__|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\email\__init__.py
+vocollect_python.email.charset|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\email\charset.py
+vocollect_python.email.generator|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\email\generator.py
+vocollect_python.email.message|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\email\message.py
+vocollect_python.email.parser|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\email\parser.py
+vocollect_python.hmac|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\hmac.py
+vocollect_python.html.__init__|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\html\__init__.py
+vocollect_python.html._markupbase|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\html\_markupbase.py
+vocollect_python.html.entities|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\html\entities.py
+vocollect_python.html.parser|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\html\parser.py
+vocollect_python.smtplib|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\smtplib.py
+vocollect_python.urllib.__init__|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\urllib\__init__.py
+vocollect_python.urllib.parse|C:\Users\E841371\VoiceArtisan\Vocollect Python Library 2.0.0\src\vocollect_python\urllib\parse.py

@@ -1,0 +1,11 @@
+MODULES_MANAGER_V2
+custom_selection.BeginAssignment_Custom|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\BeginAssignment_Custom.py
+custom_selection.DeliverAssignment_Custom|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\DeliverAssignment_Custom.py
+custom_selection.OpenContainer_Custom|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\OpenContainer_Custom.py
+custom_selection.PickPrompt_Custom|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\PickPrompt_Custom.py
+custom_selection.ReviewContents_Custom|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\ReviewContents_Custom.py
+custom_selection.SelectionLuts_Custom|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\SelectionLuts_Custom.py
+custom_selection.SelectionVocabulary_Custom|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\SelectionVocabulary_Custom.py
+custom_selection.SharedConstants|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\SharedConstants.py
+custom_selection.__init__|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\__init__.py
+main|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\main.py

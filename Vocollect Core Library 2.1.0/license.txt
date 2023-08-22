@@ -1,0 +1,121 @@
+﻿VOCOLLECT, INC. LICENSE AGREEMENT
+
+YOU SHOULD CAREFULLY READ THE FOLLOWING LICENSE AGREEMENT (&quot;AGREEMENT&quot;) BEFORE USING THIS SOFTWARE AND DOCUMENTATION. VOCOLLECT, INC. (&quot;VOCOLLECT&quot;) IS ONLY WILLING TO PROVIDE THIS SOFTWARE AND THE ACCOMPANYING DOCUMENTATION TO YOU UPON THESE TERMS AND CONDITIONS. ANY USE OF THIS SOFTWARE AND DOCUMENTATION WILL CONFIRM YOUR AGREEMENT TO BE BOUND BY THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT, DO NOT INSTALL OR USE THE SOFTWARE.
+
+   1. License
+
+      1.1    For purposes of this Agreement, Software shall be defined as the VOCOLLECT software licensed by Licensee which may include: (i) the Talkman Management Software™, Vocollect VoiceConsole™, Task Builder™ or Vocollect VoiceArtisan™ application development tool, applications such as Vocollect VoiceLink™ and Vocollect VoiceDirect™, VISocket or other terminal communications applications; (ii) voice applications built with TaskBuilder for use with the VOCOLLECT software (&quot;Tasks&quot;); (iii) Vocollect Voice™ Catalyst Software products (&quot;Client Software&quot;); (iv) all modifications, enhancements, new versions and new releases related to the above which may be provided by VOCOLLECT from time to time; and (v) any other software provided to Licensee by VOCOLLECT. VOCOLLECT hereby grants Licensee a limited, non-exclusive, non-transferable, perpetual license to use the Software in object code solely for use in accordance with the product specifications during the term of this Agreement (the &quot;License&quot;) subject to the provisions of Sections 1.2 and 1.3 below. Licensee’s use of the Software is restricted to the number of users for whose use Licensee has paid. Any Upgrades and releases which may be provided by VOCOLLECT under a support agreement or otherwise will be considered part of the Software and will be governed by the provisions of this Agreement.
+
+      1.2    The VoiceLink software and the VoiceDirect software (collectively &quot;Voice Application Software&quot;) are licensed as either Site Licenses or Enterprise Licenses. If Licensee acquires a Voice Application Software Site License, Vocollect grants Licensee a License to use the applicable Voice Application Software at the specified warehouse site (the &quot;Site&quot;), for the number of users at such Site for whose use Licensee has paid the applicable Site Client Fees. If Licensee acquires a Voice Application Software Enterprise License, Vocollect grants Licensee a License to use the applicable Voice Application Software at any Enterprise, for the number of users at such Enterprise for whose use Licensee has paid the applicable Enterprise Client Fees. For purposes of this Agreement, &quot;Enterprise&quot; shall mean any warehousing site owned by Licensee or an Affiliate of Licensee. For purposes of this Agreement, &quot;Affiliate&quot; shall mean any entity that controls, is controlled by, or is under common control with Licensee, and any reference to control shall mean ownership of more than fifty percent (50%) of the outstanding voting stock of an entity. Licensee shall be responsible for the breach by any Affiliate of the terms of this Agreement and Licensee shall indemnify Vocollect for any such breach.
+
+      1.3    All Software other than the Voice Application Software is licensed as either a (i) Site License with an unlimited number of users at the Site; or (ii) limited user License with use limited to a certain number of users at the Site.
+
+      1.4    VOCOLLECT and its licensors and/or suppliers, as applicable, shall retain all right, title and interest to the Software including all patents, copyrights, trademarks, trade secret and other proprietary rights thereto. Licensee may not make copies of the Software, except for one (1) additional copy for archival or back-up purposes. All copies of the Software, whether authorized or unauthorized, are subject to the terms and conditions of this Agreement. Licensee will not, nor will Licensee allow any third party to, (i) modify, port, translate, localize, or create derivative works of the Software; (ii) distribute, sell, lend, rent, transfer, convey, modify, decompile, disassemble, reverse engineer or attempt to reconstruct, identify or discover any source code, underlying user interface techniques or algorithms of the Software by any means whatsoever, for any purpose whatsoever; (iii) grant any sublicense, leases or other rights in the Software to any third party; or (iv) take any action that would cause the Software to be placed in the public domain. The copyright notices and other proprietary legends shall not be removed from the Software.
+
+      1.5    Licensee agrees that all output of Licensee’s use of the Task Builder Software, including but not limited to graphic files and computer files (collectively &quot;Task Builder Files&quot;), will be used solely in connection with Licensee’s use of products purchased from VOCOLLECT. In the event Licensee licenses any Tasks from VOCOLLECT, VOCOLLECT grants Licensee a license to modify such Tasks subject to the following: (i) all modifications and enhancements to the Tasks (&quot;Modified Tasks&quot;) shall be owned by VOCOLLECT and shall be considered part of the Tasks and subject to the restrictions for Software under this Agreement; and (ii) Licensee&apos;s right to use the Modified Tasks shall be limited by the License for the unmodified Tasks acquired by Licensee.
+
+      1.6    The Software includes or is distributed with certain third party software (&quot;Third Party Software&quot;). Such Third Party Software is licensed to Licensee pursuant to the terms of Attachments A and B. By signing below, Licensee agrees to the terms of Attachments A and B. From time to time, Upgrades or releases may include additional Third Party Software. Any additional license terms applicable to Licensee&apos;s use of such Third Party Software will be provided with any such Upgrades and/or releases. Vocollect shall not be responsible for providing Licensee with any Microsoft® client access licenses which may be necessary to use the Software.
+
+   2. Term and Termination
+
+      This Agreement is effective until terminated. Licensee may terminate this Agreement by destroying all copies of the Software and purging same from all memory devices. If Licensee fails to comply with any of the terms of this Agreement, VOCOLLECT may immediately terminate this Agreement. Upon any termination, Licensee will destroy all copies of the Software or, if requested by VOCOLLECT, return all copies of the Software to VOCOLLECT and have an appropriate authorized representative certify in writing the return or destruction of all copies of the Software.
+
+   3. Confidentiality
+
+      3.1    Licensee acknowledges that the Software is confidential information and contains trade secrets of VOCOLLECT. Licensee agrees to (i) hold the Software in the strictest confidence, (ii) not disclose the Software to any third party for any purpose, and (iii) use at least the same security measures as Licensee uses to protect its own confidential and trade secret information but no less than reasonable measures to protect the confidentiality of the Software.
+
+      3.2    Licensee agrees and acknowledges that any breach of the provisions regarding ownership or confidentiality contained in this Agreement shall cause VOCOLLECT irreparable harm and VOCOLLECT may obtain injunctive relief without the requirement to post a bond as well as seek all other remedies available to VOCOLLECT in law and in equity in the event of breach or threatened breach of such provisions.
+
+   4. Limited Warranty and Disclaimer
+
+      4.1    Provided that Licensee is not in breach of any of Licensee’s obligations under this Agreement, VOCOLLECT warrants that the Software will substantially conform to the published documentation for the Software for a period of ninety (90) days from the date the Software is shipped. Licensee’s sole remedy and VOCOLLECT’s sole obligation in the event of breach of this warranty, is, at VOCOLLECT’s option, correction of the substantial nonconformity or a refund of the applicable License Fee paid by Licensee for the Software. The above warranty does not apply to the extent: (i) the Software is subjected to misuse or unauthorized use or modified by a party other than VOCOLLECT; (ii) claims result from acts or omissions caused by persons other than VOCOLLECT or from products, material or software not provided by VOCOLLECT; (iii) claims are not reported to VOCOLLECT within the warranty period or are not documented by Licensee; or (iv) Licensee uses the release of the Software other than the most recent release of the Software provided to Licensee by VOCOLLECT.
+
+      4.2    VOCOLLECT DISCLAIMS ALL OTHER WARRANTIES FOR THE SOFTWARE, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT AND WARRANTIES ARISING FROM COURSE OF DEALING OR USAGE OF TRADE.
+
+   5. Limitation of Liability
+
+      5.1    IN NO EVENT SHALL VOCOLLECT OR ANY OF ITS LICENSORS BE LIABLE TO LICENSEE OR ANY THIRD PARTY FOR SPECIAL, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF REVENUES AND LOSS OF PROFITS, WHETHER ARISING UNDER CONTRACT, WARRANTY, OR TORT (INCLUDING NEGLIGENCE OR STRICT LIABILITY) OR ANY OTHER THEORY OF LIABILITY ARISING OUT OF OR IN CONNECTION WITH THE USE OF OR INABILITY TO USE THE SOFTWARE EVEN IF VOCOLLECT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+      5.2    Regardless of whether any remedy set forth herein fails of its essential purpose or otherwise, VOCOLLECT’s or any of its licensors’ total liability, regardless of the form of the action, shall not exceed the License Fee paid by Licensee for the applicable Software.
+
+   6. Infringement
+
+      VOCOLLECT shall indemnify, defend and hold Licensee harmless from and against any claim that the Software infringes the intellectual property rights of any third party provided that Licensee provides prompt written notice of such claim, provides reasonable assistance to VOCOLLECT in the defense of such claim, and grants VOCOLLECT the sole control over the defense or settlement of such claim. If any Software becomes or, in VOCOLLECT’s opinion is likely to become the subject of an infringement claim or action, VOCOLLECT may, at its option: (a) procure, at no cost to Licensee, the right for Licensee to continue using the Software; (b) replace or modify the Software to render it non-infringing, provided there is no material loss of functionality or (c) if, in VOCOLLECT’s reasonable opinion, neither (a) nor (b) above is commercially feasible, terminate the license rights for such Software and refund the amounts paid by Licensee for such Software for which Vocollect has terminated the license rights but only to the extent such termination occurs within five (5) years from the date the Software was licensed by Licensee. The foregoing states VOCOLLECT’s sole obligation and Licensee’s exclusive remedy in the event any such claim or action is commenced or is likely to be commenced.
+
+   7. General
+
+      Licensee acknowledges that the Software is subject to the laws and export regulations of the United States and Licensee agrees to comply with all of such laws and regulations. This Agreement states the entire agreement between VOCOLLECT and Licensee regarding the Software and supersedes all prior written and oral communications relating to the Software. Any terms and conditions of a purchase order or other document issued by Licensee in connection with the order of the Software shall be superseded by the terms and conditions of this Agreement. This Agreement may be amended only by a written agreement executed by Licensee and VOCOLLECT. The failure of VOCOLLECT to require performance of any provision hereof shall in no manner affect the right at a later time to enforce such provision. This Agreement shall be construed in accordance with the laws of the Commonwealth of Pennsylvania without regard to its conflict of laws provisions. The terms of the U.N. Convention on Contracts for the International Sale of Goods shall not apply. All disputes arising under this Agreement shall be resolved in a court of competent jurisdiction in Allegheny County, Pennsylvania unless VOCOLLECT, in its sole discretion, brings an action against Licensee in another jurisdiction. Licensee may not assign its rights under this Agreement. This Agreement shall be binding on and inure to the benefit of Licensee, its successors, permitted assigns and legal representatives. Sections 1.5, 2, 3, 4.2, 5, and 7 shall survive termination or expiration of this Agreement for any reason.
+
+      IN WITNESS WHEREOF, VOCOLLECT and Licensee have executed this Agreement by their duly authorized representatives as of the later of the dates set forth below.
+
+      VOCOLLECT, INC.
+
+      By: _______________________________________
+                 (Vocollect, Inc. authorized signature)
+
+      Name: _____________________________________
+                                   (Print name)
+
+      Title: ______________________________________
+
+      Date: ______________________________________
+
+
+      LICENSEE: _______________________________
+                                (Print company name)
+
+      By: _______________________________________
+                         (Licensee authorized signature)
+
+      Name: _____________________________________
+                                  (Print name)
+
+      Title: ______________________________________
+
+      Date: ______________________________________
+
+   8. MICROSOFT EULA
+
+      You have acquired a device (&quot;DEVICE&quot;) that includes software licensed by VOCOLLECT from Microsoft® Licensing Inc. or its affiliates (&quot;MS&quot;). Those installed software products of MS origin, as well as associated media, printed materials, and &quot;online&quot; or electronic documentation (&quot;MS SOFTWARE&quot;) are protected by international intellectual property laws and treaties. The MS SOFTWARE is licensed, not sold. All rights reserved.
+
+      IF YOU DO NOT AGREE TO THIS END USER LICENSE AGREEMENT (&quot;EULA&quot;) DO NOT USE THE DEVICE OR COPY THE MS SOFTWARE. INSTEAD, PROMPTLY CONTACT VOCOLLECT FOR INSTRUCTIONS ON RETURN OF THE UNUSED DEVICE(S) FOR A REFUND. ANY USE OF THE MS SOFTWARE, INCLUDING BUT NOT LIMITED TO USE ON THE DEVICE, WILL CONSTITUTE YOUR AGREEMENT TO THIS EULA (OR RATIFICATION OF ANY PREVIOUS CONSENT).
+
+      GRANT OF MS SOFTWARE LICENSE. This EULA grants you the following license:
+
+      You may use the MS SOFTWARE only on the DEVICE.
+
+      NOT FAULT TOLERANT. THE MS SOFTWARE IS NOT FAULT TOLERANT. VOCOLLECT HAS INDEPENDENTLY DETERMINED HOW TO USE THE MS SOFTWARE IN THE DEVICE, AND MS HAS RELIED UPON VOCOLLECT TO CONDUCT SUFFICIENT TESTING TO DETERMINE THAT THE MS SOFTWARE IS SUITABLE FOR SUCH USE.
+
+      NO WARRANTIES FOR THE MS SOFTWARE. THE MS SOFTWARE is provided: &quot;AS IS&quot; and with all faults. THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY, AND EFFORT (INCLUDING LACK OF NEGLIGENCE) IS WITH YOU. ALSO, THERE IS NO WARRANTY AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE MS SOFTWARE OR AGAINST INFRINGEMENT. IF YOU HAVE RECEIVED ANY WARRANTIES REGARDING THE DEVICE OR THE MS SOFTWARE, THOSE WARRANTIES DO NOT ORIGINATE FROM AND ARE NOT BINDING ON MS.
+
+      Note on Java™ Support. The MS SOFTWARE may contain support for programs written in Java. Java technology is not fault tolerant and is not designed, manufactured, or intended for use or resale as online control equipment, in hazardous environments requiring fail-safe performance, such as in the operation of nuclear facilities, aircraft navigation or communication systems, air traffic control, direct life support machines, or weapons systems, in which the failure of Java technology could lead directly to death, personal injury, or severe physical or environmental damage. Sun Microsystems, Inc. has contractually obligated MS to make this disclaimer.
+
+      No Liability for Certain Damages. EXCEPT AS PROHIBITED BY LAW, MS SHALL HAVE NO LIABILITY FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL OR INCIDENTAL DAMAGES ARISING FROM OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE MS SOFTWARE, THIS LIMITATION SHALL APPLY EVEN IF ANY REMEDY FAILS OF ITS ESSENTIAL PURPOSE. IN NO EVENT SHALL MS BE LIABLE FOR ANY AMOUNT IN EXCESS OF U.S. TWO HUNDRED FIFTY DOLLARS (U.S. $250.00).
+
+      Limitations on Reverse Engineering, Decompilation, and Disassembly. You may not reverse engineer, decompile, or disassemble the MS SOFTWARE, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+
+      MS SOFTWARE TRANSFER ALLOWED BUT WITH RESTRICTIONS. You may permanently transfer rights under this EULA only as part of a permanent sale or transfer of the Device, and only if the recipient agrees to this EULA. If the MS SOFTWARE is an upgrade, any transfer must also include all prior versions of the MS SOFTWARE.
+
+      EXPORT RESTRICTIONS. You acknowledge that SOFTWARE is subject to U.S. export jurisdiction. You agree to comply with all applicable international and national laws that apply to the MS SOFTWARE, including the U.S. Export Administration Regulations, as well as end-user, end-use and destination restrictions issued by U.S. and other governments. For additional information see http://www.Microsoft.com/exporting/.
+
+   9. THIRD PARTY SOFTWARE
+
+      The Software includes or is distributed with certain third party software (the &quot;Third Party Software&quot;). Such Third Party Software is licensed to you pursuant to the terms of the MS Software License and the terms set forth below. By clicking &quot;I Agree&quot;, you agree to the terms and conditions of the MS Software License and the terms set forth below:
+
+      Windows Template Library License Terms:
+
+      THERE ARE NO WARRANTIES OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OR CONDITIONS OF TITLE AND NON-INFRINGEMENT, AND IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, IN CONNECTION WITH THE WINDOWS TEMPLATE LIBRARY (&quot;WTL&quot;) SOFTWARE.
+
+      IN NO EVENT SHALL ANY PARTY BE LIABLE FOR DAMAGES, INCLUDING DIRECT, INDIRECT, SPECIAL, INCIDENTAL AND CONSEQUENTIAL DAMAGES SUCH AS LOST PROFITS IN CONNECTION WITH THE WTL SOFTWARE.
+
+      Any provisions in the Agreement that conflict with the terms of these WTL license terms are offered solely by Vocollect and not by any other party.
+
+      The source code and applicable license terms for the WTL software are available from Vocollect upon written notice by Licensee to the following address:
+
+      Vocollect
+      703 Rodi Road
+      Pittsburgh, PA 15235
+
+      From time to time, Upgrades or releases may include additional Third Party Software. Any additional license terms applicable to your use of such Third Party Software will be provided with any such Upgrades and/or releases.
+
+      BY CLICKING &quot;I ACCEPT&quot; YOU ACCEPT ALL THE TERMS AND CONDITIONS IN THIS AGREEMENT AND INTEND TO BE LEGALLY BOUND BY THEM.

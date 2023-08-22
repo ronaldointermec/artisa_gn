@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<voiceApplicationConfig>
+  <embeddedTraining />
+  <vocabulary />
+  <phoneticSubstitutions />
+  <properties />
+</voiceApplicationConfig>
+

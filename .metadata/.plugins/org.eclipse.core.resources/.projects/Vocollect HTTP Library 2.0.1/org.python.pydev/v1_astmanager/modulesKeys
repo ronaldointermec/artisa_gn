@@ -1,0 +1,9 @@
+MODULES_MANAGER_V2
+vocollect_http.__init__|C:\Users\E841371\Documents\Eclipse\eclipse\plugins\com.vocollect.applib.vocollectHTTPLib.2.0.1_2.0.1.202304051154\applib\src\vocollect_http\__init__.py
+vocollect_http.httpserver|C:\Users\E841371\Documents\Eclipse\eclipse\plugins\com.vocollect.applib.vocollectHTTPLib.2.0.1_2.0.1.202304051154\applib\src\vocollect_http\httpserver.py
+vocollect_http.net.__init__|C:\Users\E841371\Documents\Eclipse\eclipse\plugins\com.vocollect.applib.vocollectHTTPLib.2.0.1_2.0.1.202304051154\applib\src\vocollect_http\net\__init__.py
+vocollect_http.net.ipaddr|C:\Users\E841371\Documents\Eclipse\eclipse\plugins\com.vocollect.applib.vocollectHTTPLib.2.0.1_2.0.1.202304051154\applib\src\vocollect_http\net\ipaddr.py
+vocollect_http.net.udpbroadcast|C:\Users\E841371\Documents\Eclipse\eclipse\plugins\com.vocollect.applib.vocollectHTTPLib.2.0.1_2.0.1.202304051154\applib\src\vocollect_http\net\udpbroadcast.py
+vocollect_http.scgi.__init__|C:\Users\E841371\Documents\Eclipse\eclipse\plugins\com.vocollect.applib.vocollectHTTPLib.2.0.1_2.0.1.202304051154\applib\src\vocollect_http\scgi\__init__.py
+vocollect_http.scgi.netstring|C:\Users\E841371\Documents\Eclipse\eclipse\plugins\com.vocollect.applib.vocollectHTTPLib.2.0.1_2.0.1.202304051154\applib\src\vocollect_http\scgi\netstring.py
+vocollect_http.scgi.scgiserver|C:\Users\E841371\Documents\Eclipse\eclipse\plugins\com.vocollect.applib.vocollectHTTPLib.2.0.1_2.0.1.202304051154\applib\src\vocollect_http\scgi\scgiserver.py

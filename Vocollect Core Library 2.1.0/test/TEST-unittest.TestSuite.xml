@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite errors="0" failures="0" name="unittest.TestSuite" tests="55" time="6.035">
+  <testcase classname="vocollect_core_test.unit_tests.test_digits_dialogs.TestDigitsDialog" name="test_discrete_additional_vocab" time="0.1610"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_digits_dialogs.TestDigitsDialog" name="test_discrete_length_override" time="0.0250"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_digits_dialogs.TestDigitsDialog" name="test_executor_check_scanning" time="0.0000"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_digits_dialogs.TestDigitsDialog" name="test_executor_get_results" time="0.1260"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_digits_dialogs.TestDigitsDialog" name="test_hints" time="0.0010"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_digits_dialogs.TestDigitsDialog" name="test_priority_prompts" time="0.1470"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_digits_dialogs.TestDigitsDialog" name="test_prompt_anchor" time="0.3050"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_digits_dialogs.TestDigitsDialog" name="test_prompt_digits" time="0.3470"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_digits_dialogs.TestDigitsDialog" name="test_prompt_required" time="0.1050"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_digits_dialogs.TestDigitsDialog" name="test_scanning" time="0.1640"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_discrete_grammar.TestDiscreteGrammar" name="test_anchor_words" time="0.0610"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_discrete_grammar.TestDiscreteGrammar" name="test_characters" time="0.2400"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_discrete_grammar.TestDiscreteGrammar" name="test_digit_grammars" time="0.2550"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_discrete_grammar.TestDiscreteGrammar" name="test_discrete_digits" time="0.0310"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_discrete_grammar.TestDiscreteGrammar" name="test_discrete_floats" time="0.1980"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_discrete_grammar.TestDiscreteGrammar" name="test_discrete_list" time="0.1370"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_discrete_grammar.TestDiscreteGrammar" name="test_float_grammars" time="1.7570"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_discrete_grammar.TestDiscreteGrammar" name="test_grammar_loop" time="0.0200"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_discrete_grammar.TestDiscreteGrammar" name="test_required_values" time="0.0550"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_factories.TestFactories" name="test_factories" time="0.0110"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_float_prompt.TestFloatPrompt" name="test_custom_decimal_point" time="0.0330"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_float_prompt.TestFloatPrompt" name="test_feedback_length" time="0.2830"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_float_prompt.TestFloatPrompt" name="test_help" time="0.4540"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_float_prompt.TestFloatPrompt" name="test_prompt_float" time="0.1470"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_float_prompt.TestFloatPrompt" name="test_range" time="0.0920"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_hint_manipulation.TestHintManipulation" name="test_strlist_hint_single" time="0.0000"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_hint_manipulation.TestHintManipulation" name="test_strlist_hints" time="0.0000"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_link_manipulation.TestLinkManipulation" name="test_end_dialog" time="0.0000"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_link_manipulation.TestLinkManipulation" name="test_move_link" time="0.0630"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_link_manipulation.TestLinkManipulation" name="test_multi_move" time="0.0100"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_link_manipulation.TestLinkManipulation" name="test_remove_link" time="0.0000"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_list_dialog.TestListDialog" name="test_discrete_additional_vocab" time="0.0120"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_list_dialog.TestListDialog" name="test_list_lut_prompt" time="0.0950"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_list_dialog.TestListDialog" name="test_list_lut_prompt_auth" time="0.0310"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_list_dialog.TestListDialog" name="test_list_prompt" time="0.1740"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_localization.Test" name="test_itext" time="0.0040"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_localization.Test" name="test_load_properties" time="0.0020"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_mock_functions.TestMockFunctions" name="test_audio" time="0.0000"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_mock_functions.TestMockFunctions" name="test_catalyst_version" time="0.0000"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_mock_functions.TestMockFunctions" name="test_catalyst_version_list" time="0.0010"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_mock_functions.TestMockFunctions" name="test_dialog" time="0.0230"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_prompt_only.TestPromptOnly" name="test_prompt_only_priority" time="0.0000"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_ready_prompt.TestReadyPrompt" name="test_prompt_ready_additional_vocab" time="0.0750"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_ready_prompt.TestReadyPrompt" name="test_prompt_ready_priority" time="0.0210"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_ready_prompt.TestReadyPrompt" name="test_prompt_ready_skip_prompt" time="0.0110"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_ready_prompt.TestReadyPrompt" name="test_prompt_words" time="0.0300"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_ready_prompt.TestReadyPrompt" name="test_yes_no_cancel" time="0.0510"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_ready_prompt.TestReadyPrompt" name="test_yes_no_prompt" time="0.0200"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_scanning.TestScanning" name="test_scanning" time="0.0770"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_scanning.TestScanning" name="test_scanning_multiple" time="0.0220"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_scanning.TestScanning" name="test_scanning_off" time="0.0320"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_scanning.TestScanning" name="test_scanning_parse_callback" time="0.0210"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_scanning.TestScanning" name="test_scanning_single" time="0.0230"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_scanning.TestScanning" name="test_separate_required_key" time="0.0820"></testcase>
+  <testcase classname="vocollect_core_test.unit_tests.test_taskbase.TestTaskBase" name="test_add_state" time="0.0000"></testcase>
+  <system-out><![CDATA[Warning: TestHintManipulation.test_strlist_hint_single:
+  mock_catalyst.Node must subclass voice.dialog_objects.Node to test a node's response expressions (or implement its own),
+  use at least mock_catalyst 1.2 to run this test
+Warning: TestHintManipulation.test_strlist_hints:
+  mock_catalyst.Node must subclass voice.dialog_objects.Node to test a node's response expressions (or implement its own),
+  use at least mock_catalyst 1.2 to run this test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

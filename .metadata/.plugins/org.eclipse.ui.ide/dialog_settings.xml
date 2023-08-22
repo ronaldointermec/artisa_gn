@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\E841371\VoiceArtisan\com.vocollect.applib.vocollectHTTPLib.2.0.1_2.0.1.202304051154"/>
+		<item value="C:\Users\E841371\VoiceArtisan\com.vocollect.applib.vocollectLUTODRLibrary.2.0.2_2.0.2.202304051154"/>
+		<item value="C:\Users\E841371\VoiceArtisan\com.vocollect.applications.VoiceLinkApp.5.2.0_5.2.0.202304131623"/>
+		<item value="C:\Users\E841371\VoiceArtisan"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\E841371\Documents\Eclipse\eclipse\plugins\com.vocollect.applib.vocollectHTTPLib.2.0.1_2.0.1.202304051154"/>
+			<item value="C:\Users\E841371\Documents\Eclipse\eclipse\plugins\com.vocollect.applib.vocollectLUTODRLibrary.2.0.2_2.0.2.202304051154"/>
+			<item value="C:\Users\E841371\Documents\Eclipse\eclipse\plugins\com.vocollect.applications.VoiceLinkApp.5.2.0_5.2.0.202304131623"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="202" key="DIALOG_X_ORIGIN"/>
+		<item value="163" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

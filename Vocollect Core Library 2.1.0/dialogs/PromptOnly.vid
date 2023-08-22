@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.vocollect.voiceartisan.dialog="http:///com/vocollect/voiceartisan/dialog.ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <com.vocollect.voiceartisan.dialog:Dialog xmi:id="_tlCFcPkWEd2E_dy7yA-dxw" id="3" startNode="_s2qFEDkAEd-WR79inCm7HA">
+    <nodes xmi:type="com.vocollect.voiceartisan.dialog:Node" xmi:id="_s2qFEDkAEd-WR79inCm7HA" id="2" name="Prompt" methodName="dialogs.prompt_here" priorityPrompt="true"/>
+  </com.vocollect.voiceartisan.dialog:Dialog>
+  <notation:Diagram xmi:id="_tlCFcvkWEd2E_dy7yA-dxw" type="Dialog" element="_tlCFcPkWEd2E_dy7yA-dxw" name="PromptOnly.vid" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_uR6ZkPkWEd2E_dy7yA-dxw" type="1001" element="_s2qFEDkAEd-WR79inCm7HA">
+      <children xmi:type="notation:Node" xmi:id="_uR6Zk_kWEd2E_dy7yA-dxw" type="4001"/>
+      <children xmi:type="notation:Node" xmi:id="_uR6ZlPkWEd2E_dy7yA-dxw" type="4002"/>
+      <styles xmi:type="notation:ShapeStyle" xmi:id="_uR6ZkfkWEd2E_dy7yA-dxw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uR6ZkvkWEd2E_dy7yA-dxw" x="48" y="84"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_5yvVwAQJEd6ZCIqSgfPC7A" type="Note">
+      <children xmi:type="notation:Node" xmi:id="_5yvVxQQJEd6ZCIqSgfPC7A" type="DiagramName">
+        <element xsi:nil="true"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_5yvVxgQJEd6ZCIqSgfPC7A" type="Description">
+        <element xsi:nil="true"/>
+      </children>
+      <styles xmi:type="notation:ShapeStyle" xmi:id="_5yvVwQQJEd6ZCIqSgfPC7A" description="Prompt Only Dialig:&#xD;&#xA;&#xD;&#xA;Simply speaks a given prompt" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+      <styles xmi:type="notation:TextStyle" xmi:id="_5yvVwgQJEd6ZCIqSgfPC7A"/>
+      <styles xmi:type="notation:LineTypeStyle" xmi:id="_5yvVwwQJEd6ZCIqSgfPC7A"/>
+      <element xsi:nil="true"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5yvVxAQJEd6ZCIqSgfPC7A" x="24" y="12"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_tlCFc_kWEd2E_dy7yA-dxw"/>
+  </notation:Diagram>
+</xmi:XMI>

@@ -1,0 +1,100 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\E841371\VoiceArtisan\.metadata\.plugins\org.eclipse.core.resources\.projects\Grupo Nós 5.2\com.python.pydev.analysis\v2_indexcache
+custom_selection.BeginAssignment_Custom|1683108982000000000|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\BeginAssignment_Custom.py
+custom_selection.ReviewContents_Custom|1683108984000000000|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\ReviewContents_Custom.py
+custom_selection.__init__|1683108984000000000|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\__init__.py
+custom_selection.OpenContainer_Custom|1683108982000000000|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\OpenContainer_Custom.py
+custom_selection.SharedConstants|1683108984000000000|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\SharedConstants.py
+custom_selection.SelectionLuts_Custom|1683108984000000000|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\SelectionLuts_Custom.py
+custom_selection.DeliverAssignment_Custom|1683108982000000000|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\DeliverAssignment_Custom.py
+main|1686687551281480000|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\main.py
+custom_selection.PickPrompt_Custom|1683108982000000000|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\PickPrompt_Custom.py
+custom_selection.SelectionVocabulary_Custom|1683108984000000000|C:\Users\E841371\VoiceArtisan\Grupo Nós 5.2\src\custom_selection\SelectionVocabulary_Custom.py
+-- END DISKCACHE
+-- START DICTIONARY
+28
+4=custom_selection.SharedConstants
+2=custom_selection.SelectionLuts_Custom
+13=PickPromptTask_Custom.config
+28=BeginAssignment_Custom
+5=main
+21=DeliveryAssignmentTask_Custom
+17=PickPromptTask_Custom.verify_entered_quantity
+7=custom_selection.PickPrompt_Custom
+24=PickPromptTask_Custom.put_prompt
+19=PickPromptTask_Custom.get_reason_code
+8=custom_selection.ReviewContents_Custom
+23=OpenContainer_Custom.open_container
+25=PickPromptTask_Custom.xmit_picks
+3=custom_selection.DeliverAssignment_Custom
+10=PickPromptTask_Custom
+18=SelectionVocabulary_Custom
+14=PickPromptTask_Custom._validate_container
+1=custom_selection.BeginAssignment_Custom
+11=PickPromptTask_Custom.__init__
+16=PickPromptTask_Custom.lot_tracking
+6=custom_selection.OpenContainer_Custom
+9=custom_selection.SelectionVocabulary_Custom
+12=DeliveryAssignmentTask_Custom.deliver_load
+27=ReviewContents_Custom
+22=Containers_Custom
+26=OpenContainer_Custom
+15=PickPromptTask_Custom._set_short_product
+20=ReviewContents_Custom.prompt_for_container
+-- END DICTIONARY
+-- START TREE 1
+10
+beg|1|BeginAssignment_Custom!9@
+con|1|Containers_Custom!17@
+del|1|DeliveryAssignmentTask_Custom!25@
+get|1|GET_REASON_CODE!35@
+mai|1|main!42@
+ope|1|OpenContainer_Custom!49@
+pic|1|PickPromptTask_Custom!57@
+pos|1|POSTION_PROMPT_LIST!35@
+rev|1|ReviewContents_Custom!65@
+sel|1|SelectionVocabulary_Custom!73@
+-- END TREE
+-- START TREE 2
+39
+__i|1|__init__!10&58@
+_as|1|_assignment_lut!11&59@
+_ch|1|_check_digits!12&27@
+_co|1|_container_lut!11&59@
+_cu|3|_curr_container!13&59@_curr_container!14&59@_curr_assignment!13&59@
+_de|1|_description!13&59@
+_ex|2|_expected_quantity!13&59@_expected_quantity!15&59@
+_id|1|_id_description!13&59@
+_la|2|_last_quantity!15&59@_last_quantity!16&59@
+_lo|4|_lot_number!13&59@_lot_quantity!13&59@_lot_quantity!15&59@_lot_quantity!16&59@
+_me|1|_message!13&59@
+_ov|1|_override!12&27@
+_pa|2|_partial!13&59@_partial!17&59@
+_pi|4|_picked_lut!11&59@_picked_quantity!13&59@_picked_quantity!15&59@_picks!13&59@
+_pu|3|_put_quantity!13&59@_put_quantity!15&59@_puts!13&59@
+_pv|1|_pvid!13&59@
+_re|7|_reason_code_lut!11&59@_review_contents!18&74@_region!11&59@_reason_code!11&59@_reason_code!19&59@_reprint_labels!18&74@_review_cluster!18&74@
+_se|2|_serial_numbers!13&59@_set_short_product!10&58@
+_sh|3|_short_product!13&59@_short_product!19&59@_short_product!17&59@
+_sk|1|_skip_prompt!13&59@
+_uo|1|_uom!13&59@
+_va|1|_validate_container!10&58@
+_we|1|_weights!13&59@
+con|2|container!20&67@config!10&58@
+cur|1|current_state!13&59@
+del|1|deliver_load!21&26@
+get|1|get_reason_code!10&58@
+ini|1|initializeStates!10&58@
+lot|1|lot_tracking!10&58@
+mat|1|match_open_container!22&18@
+nam|1|name!11&59@
+nex|8|next_state!23&51@next_state!20&67@next_state!13&59@next_state!19&59@next_state!17&59@next_state!24&59@next_state!25&59@next_state!12&27@
+ope|1|open_container!26&50@
+pre|1|previous_state!13&59@
+pro|1|prompt_for_container!27&66@
+put|1|put_prompt!10&58@
+sum|1|summmary_prompt!28&10@
+ver|1|verify_entered_quantity!10&58@
+xmi|1|xmit_picks!10&58@
+-- END TREE
